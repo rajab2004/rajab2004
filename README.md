@@ -13,10 +13,11 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/rajab2004/rajab2004/blob/main/images/profile.png" width="180" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/rajab2004/rajab2004/main/images/profile.png" width="180" />
 </p>
 
 ---
+
 <h2 align="center">👨‍💻 Men Haqimda</h2>
 
 <p align="center">
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/⚙️_Modulli_Django_Loyiha-FF5733?style=for-the-badge" />
 </p>
 
+---
 
 ## 🚀 Texnologiyalar
 
@@ -44,17 +46,17 @@
 
 ### 🗄 Ma’lumotlar Bazasi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LinuxTerminal](https://img.shields.io/badge/Terminal-%23212121.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-212121?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -62,13 +64,13 @@
 
 <p align="center">
   <a href="https://github.com/rajab2004">
-    <img src="https://github.com/rajab2004/rajab2004/blob/main/images/project1.png" width="30%" />
+    <img src="https://raw.githubusercontent.com/rajab2004/rajab2004/main/images/project1.png" width="30%" />
   </a>
   <a href="https://github.com/rajab2004">
-    <img src="https://github.com/rajab2004/rajab2004/blob/main/images/project2.png" width="30%" />
+    <img src="https://raw.githubusercontent.com/rajab2004/rajab2004/main/images/project2.png" width="30%" />
   </a>
   <a href="https://github.com/rajab2004">
-    <img src="https://github.com/rajab2004/rajab2004/blob/main/images/project3.png" width="30%" />
+    <img src="https://raw.githubusercontent.com/rajab2004/rajab2004/main/images/project3.png" width="30%" />
   </a>
 </p>
 
@@ -83,14 +85,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajab2004&layout=compact&theme=radical" width="50%" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=rajab2004&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
