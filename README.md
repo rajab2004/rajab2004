@@ -55,7 +55,7 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LinuxTerminal](https://img.shields.io/badge/Terminal-%23212121.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ai](https://img.shields.io/badge/cPanel-%23000000.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+
 ---
 
 ## 🚀 Portfolio Loyihalar
@@ -74,16 +74,6 @@
 
 ---
 
-### 🛠️ Developer Tools & Platforms
-
-![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-%23000000.svg?style=for-the-badge&logo=composer&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-
 ## 📊 GitHub Statistikasi
 
 <p align="center">
@@ -100,7 +90,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajab2004&theme=radical&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajab2004&show_icons=true&theme=radical&rank_icon=github" />
 </p>
 
 ---
