@@ -10,7 +10,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 </div>
 
 <p align="center">
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="Iqbolshoh photo 1" width="30%"/>
+  <img src="file:///C:/Users/user/Pictures/rasim%20saqlagan/photo_2025-04-07_12-42-01.jpg"/>
   <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="Iqbolshoh photo 2" width="30%"/>
   <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="Iqbolshoh photo 3" width="30%"/>
 </p>
