@@ -161,28 +161,56 @@ developer = {
     "motto"     : "Build it. Break it. Fix it. Ship it. 🚀"
 }
 ```
+## 📬 Connect with Me  
 
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/rajab2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/Dasturchi_202">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/dasturchi_111">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/python_til">
-    <img src="https://img.shields.io/badge/📡_Python_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:rajabbekrahmatov2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="mailto:rajabbekrahmatov2004@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
+               height="40" width="40" alt="Email" title="Email" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rajab2004" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+               height="40" width="40" alt="GitHub" title="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a  href="https://t.me/python_til">
+           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
+               height="40" width="40" alt="Telegram" title="Telegram" />
+        </a>
+      </td>
+      <td>
+        <a href="https://t.me/Dasturchi_202" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
+               height="40" width="40" alt="Telegram" title="Telegram" />
+        </a>
+      </td>
+      <td>
+        <a href="https://wa.me/998338333304" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
+               height="40" width="40" alt="WhatsApp" title="WhatsApp" />
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/dasturchi_111" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+               height="40" width="40" alt="Instagram" title="Instagram" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/@RajabbekRahmatov" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+               height="40" width="40" alt="YouTube" title="YouTube" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
