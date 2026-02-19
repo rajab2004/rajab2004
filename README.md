@@ -44,19 +44,18 @@
 
 ### 🗄 Ma’lumotlar Bazasi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LinuxTerminal](https://img.shields.io/badge/Terminal-%23212121.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ai](https://img.shields.io/badge/cPanel-%23000000.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 ---
 
 ## 🚀 Portfolio Loyihalar
@@ -76,14 +75,7 @@
 ---
 
 ### 🛠️ Developer Tools & Platforms
-![VS
-Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux
-Terminal](https://img.shields.io/badge/Terminal-%23212121.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-%23000000.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-%23000000.svg?style=for-the-badge&logo=composer&logoColor=white)
