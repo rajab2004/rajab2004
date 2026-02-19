@@ -90,7 +90,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajab2004&show_icons=true&theme=radical&rank_icon=github" />
+ <img src="https://github-profile-trophy.vercel.app/?username=rajab2004&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
